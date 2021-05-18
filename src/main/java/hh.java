@@ -4,5 +4,6 @@ public class hh {
         System.out.println("sssss");
         System.out.println("master");
         System.out.println("新第二次");
+        System.out.println("推送");
     }
 }
