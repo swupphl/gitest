@@ -1,8 +1,5 @@
 public class hh {
     public static void main(String[] args) {
-        System.out.println("sxc");
-        System.out.println(11);
-        System.out.println(1);
-        System.out.println(111111);
+        System.out.println("haha");
     }
 }
